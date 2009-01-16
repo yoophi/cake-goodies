@@ -1,0 +1,16 @@
+users plugin
+============
+
+Users.AuthEx component
+Users.Auth helper
+
+This plugin is for user authentication.
+
+How to install
+--------------
+
+- Setup schema
+- Init Users and Groups data.
+- Init your aco data.
+- Setup AppController
+- done.
